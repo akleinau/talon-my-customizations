@@ -1,4 +1,4 @@
 key(f1): speech.toggle()
 
-# key(k:down): speech.disable()
-# key(k:up): speech.enable()
+key(f2:down): speech.disable()
+key(f2:up): speech.enable()

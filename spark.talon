@@ -3,11 +3,11 @@ title: /Spark/
 
 done: key(e)
 
-open: key("-")
+open sidebar: key("-")
 
-go to inbox: key(ctrl-shift-1)
+open inbox: key(ctrl-shift-1)
 
-go to work:
+open work:
     key("-")
     key("tab")
     key("tab")

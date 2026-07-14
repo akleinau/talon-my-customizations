@@ -1,3 +1,6 @@
+mode: command
+-
+
 whisper start: key(f11)
 
 # hold down control F9 
@@ -8,4 +11,7 @@ whisper change:
 
   
 key(f13):
-    speech.disable()
+   # if speech.enabled():
+        speech.disable()
+
+        

@@ -1,10 +1,11 @@
-whisper start: key(shift-f9)
+whisper start: key(f11)
 
 # hold down control F9 
 whisper change:
     key('ctrl-f9:down')
-    mode.enable('sleep')
-    mode.disable('command')
+        speech.disable()
 
-whisper end:
-    key('ctrl-f9:up')
+
+  
+key(f13):
+    speech.disable()

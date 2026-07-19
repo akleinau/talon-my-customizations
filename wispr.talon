@@ -1,17 +1,17 @@
 mode: command
 -
 
+# voice command to start wispr
 whisper start: key(f11)
 
-# hold down control F9 
+# special editing mode of wispr 
 whisper change:
     key('ctrl-f9:down')
         speech.disable()
 
 
-  
+# gets triggered in autohotkey when wispr is activated or deactivated
 key(f13):
-   # if speech.enabled():
-        speech.disable()
+    speech.disable()
 
         

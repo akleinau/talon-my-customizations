@@ -14,4 +14,4 @@ whisper change:
 key(f13):
     speech.disable()
 
-        
+whisper paste: key(alt-shift-z)

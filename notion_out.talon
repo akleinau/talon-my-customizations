@@ -1,6 +1,5 @@
 
 
-notion toggle dark mode: key(ctrl-shift-l)
 
 notion AI: key(ctrl-shift-j)
 

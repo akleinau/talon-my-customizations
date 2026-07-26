@@ -3,8 +3,8 @@ app: notion
 
 -
 
-page:
-	key(ctrl-n)
+full screen:
+	key(ctrl-enter)
 
 tab new:
 	key(ctrl-t)

@@ -15,3 +15,9 @@ key(f13):
     speech.disable()
 
 whisper paste: key(alt-shift-z)
+
+# improve spelling and grammar
+whisper spellcheck: key(win-alt-4)
+
+# format
+whisper format: key(win-alt-5)

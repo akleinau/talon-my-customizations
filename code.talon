@@ -8,4 +8,6 @@ confetti:
     key(enter)
 
 
-    
+citation:
+    insert("\\cite{}")
+    key("left")  

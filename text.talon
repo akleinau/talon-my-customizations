@@ -1,10 +1,12 @@
-chuck: key('backspace')
-
-chuck next: key('delete')
-
 nope: key('backspace')
 
-nope next: key('delete')
 nono: key('delete')
 
 river down: key("ctrl-z")
+
+river up: key("ctrl-y")
+
+block: key('ctrl-shift-left') 
+
+blow: key('ctrl-shift-right')
+

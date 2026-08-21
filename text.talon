@@ -17,3 +17,6 @@ next: key("right")
 hop: key('ctrl-left')
 
 hippo: key('ctrl-right')
+
+copy: key('ctrl-c')
+paste: key('ctrl-v')

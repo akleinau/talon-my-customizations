@@ -3,6 +3,7 @@ mode: command
 
 # voice command to start wispr
 whisper start: key(f11)
+whisper: key(f11)
 
 # special editing mode of wispr 
 whisper change:

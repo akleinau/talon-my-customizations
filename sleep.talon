@@ -8,3 +8,11 @@ whisper change end:
 whisper end:
     key('f11')
     speech.enable()
+
+whisper:
+    key('f11')
+    speech.enable()
+
+wake:
+    speech.enable()
+

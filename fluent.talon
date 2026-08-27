@@ -1,4 +1,4 @@
 
-show names: key(ctrl-m)
+names: key(ctrl-m)
 
 search everywhere: key(ctrl-alt-1)

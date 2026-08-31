@@ -20,3 +20,5 @@ hippo: key('ctrl-right')
 
 copy: key('ctrl-c')
 paste: key('ctrl-v')
+
+yes: key("enter")

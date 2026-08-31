@@ -18,8 +18,8 @@ key(f13):
 whisper paste: key(alt-shift-z)
 
 # improve spelling and grammar
-whisper spelling: key(win-alt-4)
+whisper spelling: key(ctrl-f6)
 spelling: key(ctrl-f6)
 
 # format
-whisper format: key(win-alt-5)
+whisper format: key(win-f7)

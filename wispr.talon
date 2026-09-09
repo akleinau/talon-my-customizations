@@ -1,5 +1,4 @@
 mode: command
-not tag: user.wispr 
 -
 
 # voice command to start wispr

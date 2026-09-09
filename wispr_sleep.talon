@@ -17,3 +17,7 @@ whisper end:
 
 whisper:
     key('f11')
+
+whisper escape:
+    key(esc)
+    key(f13)

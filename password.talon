@@ -1,4 +1,4 @@
 title: /Vivaldi/
 -
 
-fill password: key("ctrl-shift-lm")
+fill password: key("ctrl-shift-l")

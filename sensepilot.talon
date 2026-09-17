@@ -1,1 +1,3 @@
-pilot: key(keypad_multiply)
+fly | pilot: key(keypad_multiply)
+
+

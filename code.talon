@@ -8,3 +8,5 @@ confetti:
     key(enter)
 
 
+show pdf:
+    key(ctrl-alt-v) 

@@ -8,6 +8,6 @@ code: key("ctrl-shift-a")
 
 repositories: key("ctrl-t")
 
-message: key("ctrl-g")
+message|summary: key("ctrl-g")
 
 commit: key("ctrl-enter")

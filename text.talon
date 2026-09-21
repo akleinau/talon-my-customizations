@@ -23,4 +23,8 @@ paste: key('ctrl-v')
 
 yes: key("enter")
 
-dubyes: key("ctrl-enter")
+dubyes| ohyes: key("ctrl-enter")
+
+scroll: user.mouse_scroll_down_continuous()
+
+scrollo: user.mouse_scroll_up_continuous()

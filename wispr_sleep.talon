@@ -11,12 +11,9 @@ whisper change:
     speech.enable()
     user.wispr_tag_deactivate()
 
-whisper end:
+whisper (end):
     key('f11')
-   
 
-whisper:
-    key('f11')
 
 whisper escape:
     key(esc)

@@ -7,3 +7,6 @@ confetti:
 
 show pdf:
     key(ctrl-alt-v) 
+
+dark mode:
+    user.vscode('workbench.action.toggleLightDarkThemes')

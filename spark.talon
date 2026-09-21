@@ -16,4 +16,4 @@ open work:
 block mail: key(ctrl-b) 
 accept mail: key(ctrl-t)
 
-compose mail: key(c)
+new mail: key(c)

@@ -6,7 +6,7 @@ title: /GitHub/
 
 code: key("ctrl-shift-a")
 
-repositories: key("ctrl-t")
+repositories| repos: key("ctrl-t")
 
 message|summary: key("ctrl-g")
 

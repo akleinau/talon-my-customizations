@@ -14,7 +14,7 @@ dark mode:
 open chat: 
     key(ctrl-alt-i)
 
-close chat:
+(close chat)| (render pdf):
     key(ctrl-alt-b)
 
 make bold:

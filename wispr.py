@@ -5,6 +5,7 @@ mod = Module()
 # this declares a tag in the user namespace (i.e. 'user.tabs')
 mod.tag("wispr", desc="active when  is active")
 
+ctx.tags = []
 
 @mod.action_class
 class WisprActions:

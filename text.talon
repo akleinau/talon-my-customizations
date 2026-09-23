@@ -14,7 +14,7 @@ last: key("left")
 
 next: key("right")
 
-hop: key('ctrl-left')
+hops: key('ctrl-left')
 
 hippo: key('ctrl-right')
 

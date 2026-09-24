@@ -22,4 +22,4 @@ whisper paste: key(alt-shift-z)
 [whisper] spelling: key(ctrl-f6)
 
 # format
-whisper format: key(win-f7)
+whisper format: key(ctrl-f7)

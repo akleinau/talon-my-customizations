@@ -1,4 +1,4 @@
 tag: user.wispr 
 -
 
-key(f1): sleep(0)
+# key(f1): sleep(0)

@@ -28,3 +28,11 @@ dubyes| ohyes: key("ctrl-enter")
 scroll: user.mouse_scroll_down_continuous()
 
 scrollo: user.mouse_scroll_up_continuous()
+
+move up: key("alt-up")
+
+move down: key("alt-down")
+
+
+# noise(pop): mouse_click()
+# noise(dental_click): mouse_click()

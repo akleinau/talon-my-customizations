@@ -3,8 +3,8 @@ tag: user.wispr
 -
 
 key(f13):
-    speech.enable()
     user.wispr_tag_deactivate()
+    speech.enable()
 
 whisper change:
     key('ctrl-f9:up')

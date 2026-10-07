@@ -35,3 +35,10 @@ make code:
     key("left")
     key("left")
     insert("\\textsc")
+
+itemize:
+    insert("\\begin")
+    key("{")
+    insert("itemize")
+    key("}")
+

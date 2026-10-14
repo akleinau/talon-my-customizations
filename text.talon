@@ -33,6 +33,7 @@ move up: key("alt-up")
 
 move down: key("alt-down")
 
+toggle menu: key("f3")
 
 # noise(pop): mouse_click()
 # noise(dental_click): mouse_click()

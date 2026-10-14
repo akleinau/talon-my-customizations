@@ -1,4 +1,6 @@
 key(f6): tracking.control_toggle()
+key(f5): tracking.calibrate()
+
 key(f14:down):
     # user.mouse_gaze_scroll()
     tracking.control_toggle(false)
